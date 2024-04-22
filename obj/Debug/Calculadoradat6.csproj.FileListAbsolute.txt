@@ -1,0 +1,10 @@
+C:\Users\isabelle.rsilva5\source\repos\Calculadoradat6\Calculadoradat6\bin\Debug\Calculadoradat6.exe.config
+C:\Users\isabelle.rsilva5\source\repos\Calculadoradat6\Calculadoradat6\bin\Debug\Calculadoradat6.exe
+C:\Users\isabelle.rsilva5\source\repos\Calculadoradat6\Calculadoradat6\bin\Debug\Calculadoradat6.pdb
+C:\Users\isabelle.rsilva5\source\repos\Calculadoradat6\Calculadoradat6\obj\Debug\Calculadoradat6.csproj.AssemblyReference.cache
+C:\Users\isabelle.rsilva5\source\repos\Calculadoradat6\Calculadoradat6\obj\Debug\Calculadoradat6.Form1.resources
+C:\Users\isabelle.rsilva5\source\repos\Calculadoradat6\Calculadoradat6\obj\Debug\Calculadoradat6.Properties.Resources.resources
+C:\Users\isabelle.rsilva5\source\repos\Calculadoradat6\Calculadoradat6\obj\Debug\Calculadoradat6.csproj.GenerateResource.cache
+C:\Users\isabelle.rsilva5\source\repos\Calculadoradat6\Calculadoradat6\obj\Debug\Calculadoradat6.csproj.CoreCompileInputs.cache
+C:\Users\isabelle.rsilva5\source\repos\Calculadoradat6\Calculadoradat6\obj\Debug\Calculadoradat6.exe
+C:\Users\isabelle.rsilva5\source\repos\Calculadoradat6\Calculadoradat6\obj\Debug\Calculadoradat6.pdb
